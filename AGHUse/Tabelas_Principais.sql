@@ -17,11 +17,10 @@ select * from agh.mam_evolucoes -- Evoluções Realizadas por todos os profissio
 select * from agh.mam_item_evolucoes -- Evoluções Realizadas por todos os profissionais
 select * from agh.ael_item_solicitacao_exames  -- item solicitado dentro do exame
 select * from agh.ael_solicitacao_exames  -- Solicitação de exames
-
+select * from agh.mpm_resposta_consultorias -- resposta de consultorias
+select * from agh.mpm_solicitacao_consultorias msc -- Solicitações de consultorias
 
 -------------------------------------------------------------------------------------------------------------------------------
-
-
 
 
 
